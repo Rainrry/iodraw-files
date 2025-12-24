@@ -22,7 +22,7 @@
         <mxCell id="XJESOrXWwyLi4ovMrJv5-6" value="整体电路仿真" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XJESOrXWwyLi4ovMrJv5-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XJESOrXWwyLi4ovMrJv5-7" value="性能是否符合预期？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="690" width="136" height="80" as="geometry" />
         </mxCell>
       </root>
