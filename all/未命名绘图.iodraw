@@ -82,7 +82,7 @@
           <mxGeometry x="322" y="690" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XJESOrXWwyLi4ovMrJv5-19" value="实物电路制作与测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XJESOrXWwyLi4ovMrJv5-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="760" width="40" height="30" as="geometry" />
@@ -92,6 +92,9 @@
         </mxCell>
         <mxCell id="XJESOrXWwyLi4ovMrJv5-22" value="PCB绘制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XJESOrXWwyLi4ovMrJv5-25" value="性能是否符合预期？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="690" width="136" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
