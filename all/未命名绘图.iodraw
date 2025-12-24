@@ -96,6 +96,9 @@
         <mxCell id="XJESOrXWwyLi4ovMrJv5-22" value="PCB绘制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XJESOrXWwyLi4ovMrJv5-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XJESOrXWwyLi4ovMrJv5-25" target="XJESOrXWwyLi4ovMrJv5-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XJESOrXWwyLi4ovMrJv5-25" value="数据是否符合预期？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="366" y="920" width="136" height="80" as="geometry" />
         </mxCell>
@@ -114,7 +117,10 @@
           <mxGeometry x="326" y="930" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XJESOrXWwyLi4ovMrJv5-29" value="数据整理、论文撰写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="374" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XJESOrXWwyLi4ovMrJv5-31" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="434" y="1000" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
