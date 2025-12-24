@@ -37,7 +37,7 @@
           <mxGeometry x="460" y="475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XJESOrXWwyLi4ovMrJv5-6" value="整体电路仿真" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="575" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XJESOrXWwyLi4ovMrJv5-7" value="性能是否符合预期？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="680" width="136" height="80" as="geometry" />
@@ -49,6 +49,12 @@
             <Array as="points">
               <mxPoint x="330" y="420" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJESOrXWwyLi4ovMrJv5-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="XJESOrXWwyLi4ovMrJv5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="570" as="sourcePoint" />
+            <mxPoint x="480" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
