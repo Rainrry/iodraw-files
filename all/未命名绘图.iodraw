@@ -47,8 +47,10 @@
         <mxCell id="XJESOrXWwyLi4ovMrJv5-6" value="整体电路仿真" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XJESOrXWwyLi4ovMrJv5-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XJESOrXWwyLi4ovMrJv5-7" target="XJESOrXWwyLi4ovMrJv5-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XJESOrXWwyLi4ovMrJv5-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XJESOrXWwyLi4ovMrJv5-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XJESOrXWwyLi4ovMrJv5-7" value="性能是否符合预期？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="680" width="136" height="80" as="geometry" />
@@ -86,6 +88,9 @@
         </mxCell>
         <mxCell id="XJESOrXWwyLi4ovMrJv5-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="760" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XJESOrXWwyLi4ovMrJv5-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
