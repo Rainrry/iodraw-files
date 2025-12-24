@@ -47,6 +47,9 @@
         <mxCell id="XJESOrXWwyLi4ovMrJv5-6" value="整体电路仿真" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XJESOrXWwyLi4ovMrJv5-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XJESOrXWwyLi4ovMrJv5-7" target="XJESOrXWwyLi4ovMrJv5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XJESOrXWwyLi4ovMrJv5-7" value="性能是否符合预期？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="680" width="136" height="80" as="geometry" />
         </mxCell>
@@ -79,7 +82,7 @@
           <mxGeometry x="322" y="690" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XJESOrXWwyLi4ovMrJv5-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
