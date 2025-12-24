@@ -93,8 +93,8 @@
         <mxCell id="XJESOrXWwyLi4ovMrJv5-22" value="PCB绘制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XJESOrXWwyLi4ovMrJv5-25" value="性能是否符合预期？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="690" width="136" height="80" as="geometry" />
+        <mxCell id="XJESOrXWwyLi4ovMrJv5-25" value="数据是否符合预期？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="1000" width="136" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
